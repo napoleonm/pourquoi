@@ -2,6 +2,10 @@
 short:
 champselysees
 
+short:
+.jp
+tel
+
 long:
 .no
 let
