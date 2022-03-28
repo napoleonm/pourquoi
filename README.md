@@ -16,7 +16,7 @@ fold
 .nl
 commerce
 
-.fr
+0.frth
 
 it's not funny, it's the law!
 
